@@ -161,4 +161,4 @@ jobs:
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: Деплой Kittygram успешно выполнен!
+        message: ${{ runner.temp }}

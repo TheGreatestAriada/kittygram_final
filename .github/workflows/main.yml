@@ -161,4 +161,4 @@ jobs:
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: https://github.com/TheGreatestAriada/kittygram_final/actions/runs/5881628291
+        message: https://github.com/TheGreatestAriada/kittygram_final/actions/runs/5881739642
